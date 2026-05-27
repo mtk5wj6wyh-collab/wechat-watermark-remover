@@ -5,6 +5,9 @@ downloaded_images/
 # Test files
 test_*.jpg
 
+# Generated videos
+*.mp4
+
 # Python
 __pycache__/
 *.pyc
