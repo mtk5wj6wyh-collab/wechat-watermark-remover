@@ -1,0 +1,17 @@
+# Image data
+wechat_articles/
+downloaded_images/
+
+# Test files
+test_*.jpg
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+
+# OS
+Thumbs.db
+.DS_Store
